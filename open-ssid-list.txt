@@ -1,66 +1,155 @@
+#TELUSDirect
 #WiFi@Changi
-AIRPORT
 .Venice Airport Free WiFi
+A&W Free Wi-Fi
+ADPGUESTWIFI
+AIRPORT
+ASUS
 AirPort Express
 Airport_FreeInternet
 Apple Demo
+Apt3Guest
 Auckland Airport
 BAYMONT
+BELLWIFI@MCDONALDS
 BELL_WIFI
+BK Guest
+BMOguest
+BSA Guest
+BayRentalsGuest
+Blazemarketing
 Boingo Hotspot
+Boneheads
+Boston Pizza
+Burger King (Public)
 Caesars_Resorts
+Canadian Tire
 Caravel Conferences
 Caravel Wireless
 Chick-fil-A WiFi
 Chili's
+CoastTire
 CoffeeBeanWifi
 CrossCountryWiFi
+DAVIDsTEA - Free Internet
 DOCOMO@Hilton Meetings
 DXB Free WiFi
+Dal-WPA2
+Dental-Guest
 DomoticaSys
+ES-Guest
+GH_Cottages
+GOEASY_GUEST
 GUEST
 Gatwick FREE Wi-Fi
+George's Bubble Tea
 Google Starbucks
+GrecoFreeWiFi
 Guest
+Guest Access
+Guest-Wireless
 Guest@Balalaika
 Guest@Hilton
 HHonors
+Halifax Public Libraries
+Hanatech-Guest
+Hawthorn WIFI
+Hewitt_Guest
 Hilton Honors
 HolidayInn
 HolidayInn-GuestRoom
 HolidayInn_Guest
+HotSpot@NSCC
+IMV-Guest
+IWK-Guest
+Ironstone Guest
+Irving-guest
+JACK ASTOR'S GUEST
+JA_PUBLIC
+KFC Guest
 MARRIOTT_GUEST
+MAYGARDENWIFI
 MSFTOPEN
+MTSWireless
 Macdonald Manchester WiFi
+Massage Addict Guest
 MaundGuest
+MayGardenGuest
+Middle Spoon Guest
+Millcove_Guest
+Montana's-Guest
+NOCI-GUEST
+NSGOV-GUEST
+NYCommune
 O2 Wifi
-Qantas-Lounge
+PEPCO GUEST
+Pandora_Guest
 Piedmont_Connect
+Pitapit_Guest_291
+QEII_wifi
+Qantas-Lounge
+RMHGuest
+RedPanda-guest
 Riverboat Free Wi-Fi
 SAMSUNGSMART
+SJIAA Public WiFi
 SKYNET
+SMH_Guest
+Saje Natural Wellness
+Second Cup - WiFi
+Sephora Free WiFi
 Singtel WIFI
 Spark WIFI
 Starbucks WiFi
+Subway
+Sundance Cottages
+SunnySide_Guest
+Sunnyside
+Sunnyside_Guest
+Swarovski_guest
+Swiss - Guest
+TBG Salon Guest
+TCPS-Guest
+TD-WIFI
 TGI Fridays Guest Wifi
+TOYS_R_US GUEST
+TRC_Guess
 Telcel Hotspot
+Thaiivory GUEST
+Tim Hortons WiFi
 UPC Wi-Free
 United_Wi-F
 VirginTrainsEC-WiFi
 VodafoneWiFi
+WW-Guest
+WestJetConnect
+WiFi@Guest
+WickerEmporium
 Wireless@SG
 Wyndam Guest
 XFINITY
+Xerox
 amtrak
 arq_wifi
 attwifi
 attwifibn
+bl-guest
+bluefrog-guest
+cloudtrax
+cloudtrax secure
 countryinns
+fordservice
+goWireless
+gocourtyard.com
 gogoinflight
+good life fitness
 guestnet
 hhonors
 lavistarooms
+leap-guest-cap
 mobilywifi
+nyfmoncton
+subway
 united_club
 unitedwifi
 xfinitywifi
