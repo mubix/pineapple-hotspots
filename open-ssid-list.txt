@@ -64,3 +64,12 @@ mobilywifi
 united_club
 unitedwifi
 xfinitywifi
+infinitum movil
+CoxWiFi
+DeltaWiFi
+DeltaSkyClub
+Marriott_GUEST
+REGUSNETWIFI
+Fairfield_GUEST
+Courtyard_GUEST
+ResidenceInn_GUEST
